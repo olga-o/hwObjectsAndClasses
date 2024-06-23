@@ -8,5 +8,11 @@ public class Main {
 
         adventuresWithWaffles.setYearOfPublication(2005);
 
+        System.out.println(karenBlixen.toString());
+        System.out.println(outOfAfrica.toString());
+
+        System.out.println(outOfAfrica.equals(adventuresWithWaffles));
+        System.out.println("\n");
+
     }
 }
